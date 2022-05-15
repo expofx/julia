@@ -1,6 +1,6 @@
 # Image Processing in Julia
 
-Implementing image manipulations and convolutions from scratch in Julia.
+Implementing image manipulations and convolutions from scratch in Julia. Created for MIT 18.S191: Introduction to computational thinking for real-world problems.
 
 ### manipulations.jl
 
